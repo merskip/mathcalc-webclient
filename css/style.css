@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.container {
+    max-width: 800px;
+}
+
+#result_panel {
+    box-shadow: 0 0 10px rgba(0,0,0,.4);
+    border: none;
+}
+
+#result_panel .panel-heading {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    padding: 8px 15px;
+}
+
+#result_panel .list-group-item-heading {
+    color: #428bca;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+#result_panel .list-group-item img {
+    margin-left: 10px;
+}
